@@ -29,6 +29,7 @@
   "dependencies": {
     "react": "^15.3.1",
     "react-dom": "^15.3.1",
+    "react-draggable": "^2.2.2",
     "react-mdl": "^1.7.2"
   }
 }
