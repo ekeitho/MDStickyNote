@@ -1,7 +1,7 @@
 const path = require('path');
 const merge = require('webpack-merge');
 const PATHS = {
-    src: path.join(__dirname, 'src'),
+    src: path.join(__dirname, 'src/jsx'),
     style: path.join(__dirname, 'src/css', 'main.css'),
     build: path.join(__dirname, 'build'),
     libs: path.join(__dirname, 'libs')
