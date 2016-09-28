@@ -1,0 +1,20 @@
+.note {
+    position: fixed !important;
+    width: 250px !important;
+    min-width: 100px !important;
+    margin: auto;
+}
+
+#addButton {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin: 32px;
+    z-index: 9999;
+}
+
+.draggablePart {
+    color: black;
+    background-image: url(http://static.simpledesktops.com/uploads/desktops/2015/06/15/ramadan-2015-wallpaper1.png.625x385_q100.png);
+    background-size: cover;
+}
